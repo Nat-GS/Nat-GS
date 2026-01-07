@@ -55,6 +55,9 @@ Currently strengthening my skills through real projects and continuous learning.
 ---
 
 ## 📫 Contact
-- Email: **nata1945.gs@gmail.com**
-- LinkedIn: [Natalia Gutierrez Soliz](https://www.linkedin.com/in/natalia-gutierrez-soliz-201a88370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Portfolio: [https://natalia-gutierrez.vercel.app/](https://natalia-gutierrez.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-nata1945.gs%40gmail.com-000?logo=gmail&logoColor=white)](mailto:nata1945.gs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Natalia%20Gutierrez%20Soliz-000?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-gutierrez-soliz-201a88370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-natalia--gutierrez.vercel.app-000?logo=vercel&logoColor=white)](https://natalia-gutierrez.vercel.app/)
+[![Resume PDF](https://img.shields.io/badge/Resume-PDF-000?logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
+
