@@ -23,7 +23,7 @@ Currently strengthening my skills through real projects and continuous learning.
 - **CorrespondenceGDyA (Document Tracking System)** — Next.js + Spring Boot (Java) + PostgreSQL  
   _JWT authentication with refresh tokens (7 days), user registration with email sending, document upload, sent/reviewed document logs, monitoring, and observations workflow._  
   🔗 Repo: https://github.com/Nat-GS/CorrespondenciaGDyA.git
-  
+
 - **Smart Park** — Python + Flutter  
   _Mobile app + logic for a smart parking concept._  
   🔗 Repo: https://github.com/Nat-GS/iot_garaje_inteligente
@@ -31,21 +31,6 @@ Currently strengthening my skills through real projects and continuous learning.
 - **Educational Math Platform (Aldeas Infantiles SOS)** — Angular (Angular CLI 16.2.1)  
   _Interactive story-driven math learning experience for 5th grade students (Pingo the penguin), with explanations, video lessons, and quiz-style exercises with answer validation and level progression._  
   🔗 Repo: https://github.com/Nat-GS/AldeasSos.git
-
----
-
-### 📨 CorrespondenceGDyA — Document Tracking & Monitoring System
-A full-stack system for **document submission, tracking, review, and monitoring**, including user registration and email notifications.
-
-**Tech:** Next.js (Node v18.18.0) • Spring Boot (Java) • PostgreSQL  
-**Key features:**
-- JWT authentication + refresh token flow (7 days)
-- User registration + email sending
-- Document upload and sent-document registry
-- Document monitoring and observations
-- Reviewed-document registry
-
-🔗 Repo: https://github.com/Nat-GS/CorrespondenciaGDyA.git
 
 ---
 
