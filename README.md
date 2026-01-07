@@ -46,18 +46,29 @@ Currently strengthening my skills through real projects and continuous learning.
 **Universidad Católica Boliviana “San Pablo”** — Systems Engineering *(Expected Jan 2026)*  
 **English:** C1 (Advanced)
 
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nat-GS&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nat-GS&layout=compact)
 
 ---
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-nata1945.gs%40gmail.com-000?logo=gmail&logoColor=white)](mailto:nata1945.gs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Natalia%20Gutierrez%20Soliz-000?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-gutierrez-soliz-201a88370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-natalia--gutierrez.vercel.app-000?logo=vercel&logoColor=white)](https://natalia-gutierrez.vercel.app/)
-[![Resume PDF](https://img.shields.io/badge/Resume-PDF-000?logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
+<p align="center">
+  <a href="mailto:nata1945.gs@gmail.com">
+    <img src="./gmail.png" width="40" height="40" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/natalia-gutierrez-soliz-201a88370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="./linkedin(1).png" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://natalia-gutierrez.vercel.app/" target="_blank">
+    <img src="./paginas-web.png" width="40" height="40" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="./resume.pdf" target="_blank">
+    <img src="./pdf.png" width="40" height="40" alt="Resume PDF" />
+  </a>
+  
+</p>
+
+
 
