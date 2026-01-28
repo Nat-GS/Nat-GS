@@ -48,6 +48,7 @@ Desarrolladora Full-Stack junior recién egresada (Dic 2025), con **1 año de ex
 ## 🎓 Educación
 
 **Universidad Católica Boliviana “San Pablo”** — Ingeniería de Sistemas *(Dic 2025)*
+
 **Centro Boliviano Americano** — Técnico Superior en Inglés  —  C1 (Avanzado)
 
 ---
