@@ -1,4 +1,8 @@
 # Natalia Gutierrez Soliz 👋
+<p align="right">
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Leer%20en-Español-red?style=for-the-badge" alt="Leer en Español"></a>
+</p>
+
 **Junior Full-Stack Developer (Web & Mobile)** • La Paz, Bolivia  
 I build end-to-end web and mobile products using **Java/Spring Boot**, **React/Next.js**, **Vue**, **Angular**, and **PostgreSQL**—focused on clean architecture, solid UI, and reliable deployments.  
 Currently strengthening my skills through real projects and continuous learning.
@@ -42,7 +46,7 @@ Currently strengthening my skills through real projects and continuous learning.
 ---
 
 ## 🎓 Education
-**Universidad Católica Boliviana “San Pablo”** — Systems Engineering *(Expected Jan 2026)*  
+**Universidad Católica Boliviana “San Pablo”** — Systems Engineering *(Dec 2025)*  
 **English:** C1 (Advanced)
 
 
@@ -63,7 +67,7 @@ Currently strengthening my skills through real projects and continuous learning.
     <img src="./paginas-web.png" width="40" height="40" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="./resume.pdf" target="_blank">
+  <a href="./NATALIA_GUTIERREZ_SOLIZ_CV_en.pdf" target="_blank">
     <img src="./pdf.png" width="40" height="40" alt="Resume PDF" />
   </a>
   
