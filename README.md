@@ -46,6 +46,7 @@ Recently graduated **Junior Full-Stack Developer** (Dec 2025) with **1 year of p
 
 ## 🎓 Education
 **Universidad Católica Boliviana “San Pablo”** — Systems Engineering *(Dec 2025)*  
+
 **Bolivian American Center** —  Higher Technical Degree in English —  C1 (Advanced)
 
 
