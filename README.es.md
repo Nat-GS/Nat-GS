@@ -9,12 +9,11 @@ Desarrolladora Full-Stack junior recién egresada (Dic 2025), con **1 año de ex
 ---
 
 ## 🔧 Tecnologías
-
-**Frontend:** React • Next.js • Vue • Angular
-**Backend:** Java • Spring Boot
-**Móvil:** Flutter (Dart)
-**Base de datos:** PostgreSQL
-**Herramientas:** Git • Linux
+**Frontend:** React • Next.js • Vue • Angular  
+**Backend:** Java • Spring Boot  
+**Mobile:** Flutter (Dart)  
+**Database:** PostgreSQL  
+**Tools:** Git • Linux
 
 ---
 
