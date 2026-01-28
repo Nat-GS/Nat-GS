@@ -56,21 +56,34 @@ Actualmente estoy fortaleciendo mis habilidades mediante proyectos reales y apre
 
 ## 📫 Contacto
 
-<p align="center">
-  <a href="mailto:nata1945.gs@gmail.com">
-    <img src="./gmail.png" width="40" height="40" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/natalia-gutierrez-soliz-201a88370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="./linkedin(1).png" width="40" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://natalia-gutierrez.vercel.app/" target="_blank">
-    <img src="./paginas-web.png" width="40" height="40" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="./NATALIA_GUTIERREZ_SOLIZ_CV_es.pdf" target="_blank">
-    <img src="./pdf.png" width="40" height="40" alt="CV PDF" />
-  </a>
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <small><b>Email</b></small><br />
+      <a href="mailto:nata1945.gs@gmail.com">
+        <img src="./gmail.png" width="40" height="40" alt="Email" />
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <small><b>LinkedIn</b></small><br />
+      <a href="https://www.linkedin.com/in/natalia-gutierrez-soliz-201a88370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img src="./linkedin(1).png" width="40" height="40" alt="LinkedIn" />
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <small><b>Portafolio</b></small><br />
+      <a href="https://natalia-gutierrez.vercel.app/">
+        <img src="./paginas-web.png" width="40" height="40" alt="Portafolio" />
+      </a>
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <small><b>CV</b></small><br />
+      <a href="./NATALIA_GUTIERREZ_SOLIZ_CV_es.pdf">
+        <img src="./pdf.png" width="40" height="40" alt="CV PDF" />
+      </a>
+    </td>
+  </tr>
+</table>
