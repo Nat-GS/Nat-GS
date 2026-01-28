@@ -4,7 +4,7 @@
 </p>
 
 
-Desarrolladora Full-Stack junior recién egresada (Dic 2025), con **1 año de experiencia laboral** en desarrollo de software (pasantía + proyecto freelance) y **más de 2 años** construyendo soluciones con **Angular, Vue, Next.js, React y Flutter**. Trabajo principalmente con **Java/Spring Boot** en backend, diseñando **APIs REST**, autenticación/autorización y gestión de roles, integrando **PostgreSQL** y aplicando principios **OOP/SOLID**, clean code y buenas prácticas. Me adapto bien a entornos ágiles (Scrum/Kanban), uso Git de forma constante y tengo conocimientos de despliegue y administración básica en Linux. 
+Desarrolladora Full-Stack junior recién egresada (Dic 2025), con **1 año de experiencia laboral** en desarrollo de software (pasantía + proyecto freelance) y **más de 2 años** construyendo soluciones con **Angular, Vue, Next.js, React y Flutter**. Trabajo principalmente con **Java/Spring Boot** en backend, diseñando **APIs REST**, autenticación/autorización y gestión de roles, integrando **PostgreSQL** y aplicando principios **SOLID**, clean code y buenas prácticas. Me adapto bien a entornos ágiles (Scrum/Kanban), uso Git de forma constante y tengo conocimientos de despliegue y administración básica en Linux. 
 
 ---
 
