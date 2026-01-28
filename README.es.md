@@ -3,9 +3,8 @@
   <a href="./README.md"><img src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge" alt="Read in English"></a>
 </p>
 
-**Desarrollador/a Full-Stack Junior (Web y Móvil)** • La Paz, Bolivia
-Construyo productos web y móviles de punta a punta usando **Java/Spring Boot**, **React/Next.js**, **Vue**, **Angular** y **PostgreSQL**—enfocado/a en arquitectura limpia, una UI sólida y despliegues confiables.
-Actualmente estoy fortaleciendo mis habilidades mediante proyectos reales y aprendizaje continuo.
+
+Desarrolladora Full-Stack junior recién egresada (Dic 2025), con **1 año de experiencia laboral** en desarrollo de software (pasantía + proyecto freelance) y **más de 2 años** construyendo soluciones con **Angular, Vue, Next.js, React y Flutter**. Trabajo principalmente con **Java/Spring Boot** en backend, diseñando **APIs REST**, autenticación/autorización y gestión de roles, integrando **PostgreSQL** y aplicando principios **OOP/SOLID**, clean code y buenas prácticas. Me adapto bien a entornos ágiles (Scrum/Kanban), uso Git de forma constante y tengo conocimientos de despliegue y administración básica en Linux. 
 
 ---
 

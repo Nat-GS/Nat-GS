@@ -3,9 +3,8 @@
   <a href="./README.es.md"><img src="https://img.shields.io/badge/Leer%20en-Español-red?style=for-the-badge" alt="Leer en Español"></a>
 </p>
 
-**Junior Full-Stack Developer (Web & Mobile)** • La Paz, Bolivia  
-I build end-to-end web and mobile products using **Java/Spring Boot**, **React/Next.js**, **Vue**, **Angular**, and **PostgreSQL**—focused on clean architecture, solid UI, and reliable deployments.  
-Currently strengthening my skills through real projects and continuous learning.
+
+Recently graduated **Junior Full-Stack Developer** (Dec 2025) with **1 year of professional experience** in software development (internship + freelance project) and **2+ years** building web and mobile solutions with **Angular, Vue, Next.js, React, and Flutter**. I focus on **Java/Spring Boot** backend development, designing **REST APIs**, implementing authentication/authorization and role-based access, and integrating **PostgreSQL** with solid data modeling. I apply **OOP/SOLID** principles, clean code practices, and work comfortably in Agile environments (Scrum/Kanban) using Git, with basic Linux deployment/administration knowledge. 
 
 ---
 
